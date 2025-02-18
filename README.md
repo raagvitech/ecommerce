@@ -18,7 +18,10 @@ It is a full-stack retail commerce platform designed to provide a seamless onlin
 
 ### Prerequisites
 1. **Node.js** must be installed.
-
+- Download and Install Node.js
+- Go to the official Node.js website: https://nodejs.org/
+- Download and install the LTS (Long-Term Support) version.
+  
 ### 1. Clone the repository:
 
 ```bash
@@ -39,31 +42,12 @@ cd ecommerce
 npm install
 ```
 
-### 5. Set up environment 
-- **Install Node.js**
-- Download and Install Node.js
-- Go to the official Node.js website: https://nodejs.org/
-- Download and install the LTS (Long-Term Support) version.
-- Verify installation:
-  node -v   # Check Node.js version   v18.16.1
-  npm -v    # Check npm version 10.8.2
+### 5. Set up Database 
 
-Open Project
-Install Node Modules Using  npm i 
-Then Start Project using npm run dev then check DB connected or Not.
-Success : Server Listining On port : 5000
-DB Connected Successfully !
-
-DB Setup : 
-Install Mongoose -> MongoDB Shell Download
-Then Connect with localhost
-Create new DB with Name is “ecommerce” and collection name “users”
-Then import Collection Data that I shared in specific Collection.
-
-React Js : 
-Navigate to project
-Install Node Modules using npm I -f 
-Then start project using “npm run dev”
+- Install Mongoose -> MongoDB Shell Download
+- Then Connect with localhost
+- Create new DB with Name is “ecommerce” and collection name “users”
+- Then import Collection Data that I shared in specific Collection.
 
 Note : Backend and Frontend Project should at a time because we are using localhost connect between backend and frontend.
 
