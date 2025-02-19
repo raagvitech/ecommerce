@@ -63,7 +63,14 @@ npm install
 
 Note : Backend and Frontend Project should at a time because we are using localhost connect between backend and frontend.
 
-### 6. Run the development server:
+
+### 6. If you found this error 'nodemon' is not recognized as an internal or external command
+
+```bash
+npm install nodemon --save-dev
+```
+
+### 7. Run the development server:
 
 ```bash
 npm run dev
