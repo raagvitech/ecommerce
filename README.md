@@ -35,6 +35,12 @@ git clone https://github.com/raagvitech/ecommerce.git
 ```bash
 cd ecommerce
 ```
+```bash
+cd POC-ecommerce-backend
+```
+```bash
+cd Ecommerce Backend
+```
 
 ### 4. Install dependencies:
 
@@ -75,5 +81,19 @@ npm install nodemon --save-dev
 ```bash
 npm run dev
 ```
+
+### 8. Open the new terminal
+
+```bash
+cd poc-ecommerce-app
+```
+
+### 9. Run the UI development server:
+
+```bash
+npm run dev
+```
+
+
 
 
