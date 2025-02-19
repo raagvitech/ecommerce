@@ -85,6 +85,9 @@ npm run dev
 ### 8. Open the new terminal
 
 ```bash
+cd ecommerce
+```
+```bash
 cd poc-ecommerce-app
 ```
 
